@@ -1,0 +1,22 @@
+# AhaPath backend on Render (Express API).
+# Root directory MUST be the repository root: the server reads versioned
+# content packs from ./content-packs at runtime. Do not scope the service
+# to backend/ or the packs disappear from the deployed filesystem.
+services:
+  - type: web
+    name: ahapath-backend
+    runtime: node
+    rootDir: .
+    buildCommand: npm --prefix backend ci
+    startCommand: npm --prefix backend start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DIAGNOSTIC_COUNT
+        value: 12
+      # Owner sets these in the Render Dashboard (never in files):
+      # - MONGODB_URI (Atlas string; without it sessions are in-memory only)
+      # - GEMINI_API_KEY (without it lessons use reviewed fallback)
+      # - GEMINI_MODEL (default gemini-2.0-flash)
+      # - GEMINI_TIMEOUT_MS (default 20000)

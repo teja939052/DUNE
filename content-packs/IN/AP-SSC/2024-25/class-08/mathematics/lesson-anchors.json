@@ -1,0 +1,222 @@
+{
+  "number-sense": {
+    "sourceExampleId": "number-sense-worked-example",
+    "title": "Keeping the Equation Balanced",
+    "workedExample": {
+      "problem": "x + 5 = 12",
+      "finalAnswer": "x = 7"
+    },
+    "steps": [
+      {
+        "caption": "Name the goal",
+        "content": "Get x on its own on the left side.",
+        "why": "An equation is solved when the variable stands alone."
+      },
+      {
+        "caption": "Undo the +5",
+        "content": "Subtract 5 from both sides: x = 12 − 5.",
+        "why": "Subtracting is the opposite of adding, so it removes the +5."
+      },
+      {
+        "caption": "Finish",
+        "content": "x = 7.",
+        "why": "12 − 5 is 7, and both sides are still balanced."
+      }
+    ],
+    "hint": "What is the opposite of adding 5? Do it to BOTH sides.",
+    "mindMap": [
+      {
+        "id": "ns-core",
+        "label": "Balance both sides",
+        "type": "current"
+      },
+      {
+        "id": "ns-inv",
+        "label": "Add / Subtract moves",
+        "type": "target"
+      }
+    ],
+    "mindMapEdges": [
+      {
+        "from": "ns-inv",
+        "to": "ns-core"
+      }
+    ]
+  },
+  "inverse-operations": {
+    "sourceExampleId": "inverse-operations-worked-example",
+    "title": "Undoing Multiplication and Division",
+    "workedExample": {
+      "problem": "2x = 14",
+      "finalAnswer": "x = 7"
+    },
+    "steps": [
+      {
+        "caption": "Spot the multiplier",
+        "content": "The 2 is being multiplied with x.",
+        "why": "To free x you need the opposite of multiplying."
+      },
+      {
+        "caption": "Undo it",
+        "content": "Divide both sides by 2: x = 14 ÷ 2.",
+        "why": "Division undoes multiplication exactly."
+      },
+      {
+        "caption": "Finish",
+        "content": "x = 7.",
+        "why": "14 divided by 2 is 7."
+      }
+    ],
+    "hint": "2x means 2 × x. Which operation cancels × 2?",
+    "mindMap": [
+      {
+        "id": "io-core",
+        "label": "Inverse operations",
+        "type": "current"
+      },
+      {
+        "id": "io-soon",
+        "label": "Two-step equations",
+        "type": "target"
+      }
+    ],
+    "mindMapEdges": [
+      {
+        "from": "io-core",
+        "to": "io-soon"
+      }
+    ]
+  },
+  "distributive-parenthesis": {
+    "sourceExampleId": "distributive-parenthesis-worked-example",
+    "title": "Removing Brackets Correctly",
+    "workedExample": {
+      "problem": "3(x + 2) = 21",
+      "finalAnswer": "x = 5"
+    },
+    "steps": [
+      {
+        "caption": "Distribute",
+        "content": "3 × x and 3 × 2 gives 3x + 6, so 3x + 6 = 21.",
+        "why": "The number outside brackets multiplies every term inside."
+      },
+      {
+        "caption": "Undo the +6",
+        "content": "Subtract 6 from both sides: 3x = 15.",
+        "why": "Now it is a two-step equation."
+      },
+      {
+        "caption": "Undo the ×3",
+        "content": "Divide both sides by 3: x = 5.",
+        "why": "Division undoes the multiplication."
+      }
+    ],
+    "hint": "The 3 must reach BOTH x and 2. Which one is easy to forget?",
+    "mindMap": [
+      {
+        "id": "dp-core",
+        "label": "Distribute first",
+        "type": "current"
+      },
+      {
+        "id": "dp-soon",
+        "label": "Two-step equations",
+        "type": "target"
+      }
+    ],
+    "mindMapEdges": [
+      {
+        "from": "dp-core",
+        "to": "dp-soon"
+      }
+    ]
+  },
+  "two-step-equations": {
+    "sourceExampleId": "two-step-equations-worked-example",
+    "title": "Solving Two-Step Equations",
+    "workedExample": {
+      "problem": "2x + 4 = 10",
+      "finalAnswer": "x = 3"
+    },
+    "steps": [
+      {
+        "caption": "Undo the +4",
+        "content": "Subtract 4 from both sides: 2x = 6.",
+        "why": "Removing the constant isolates the x term."
+      },
+      {
+        "caption": "Undo the ×2",
+        "content": "Divide both sides by 2: x = 3.",
+        "why": "Division undoes the multiplication on x."
+      },
+      {
+        "caption": "Check",
+        "content": "2(3) + 4 = 10, so x = 3 is correct.",
+        "why": "Substituting back verifies the answer."
+      }
+    ],
+    "hint": "Two moves: first the plain number, then divide. Don't stop at 2x = 6.",
+    "mindMap": [
+      {
+        "id": "ts-core",
+        "label": "Subtract, then divide",
+        "type": "current"
+      },
+      {
+        "id": "ts-soon",
+        "label": "Variables on both sides",
+        "type": "target"
+      }
+    ],
+    "mindMapEdges": [
+      {
+        "from": "ts-core",
+        "to": "ts-soon"
+      }
+    ]
+  },
+  "variables-both-sides": {
+    "sourceExampleId": "variables-both-sides-worked-example",
+    "title": "Variables on Both Sides",
+    "workedExample": {
+      "problem": "5x - 7 = 2x + 8",
+      "finalAnswer": "x = 5"
+    },
+    "steps": [
+      {
+        "caption": "Gather the x terms",
+        "content": "Subtract 2x from both sides: 3x - 7 = 8.",
+        "why": "One side must hold all the variables."
+      },
+      {
+        "caption": "Gather the numbers",
+        "content": "Add 7 to both sides: 3x = 15.",
+        "why": "Now the x term is isolated."
+      },
+      {
+        "caption": "Finish",
+        "content": "Divide both sides by 3: x = 5.",
+        "why": "Division undoes the multiplication."
+      }
+    ],
+    "hint": "Move the 2x across first — and remember its sign flips.",
+    "mindMap": [
+      {
+        "id": "vb-core",
+        "label": "Gather like terms",
+        "type": "current"
+      },
+      {
+        "id": "vb-soon",
+        "label": "Challenge",
+        "type": "target"
+      }
+    ],
+    "mindMapEdges": [
+      {
+        "from": "vb-core",
+        "to": "vb-soon"
+      }
+    ]
+  }
+}

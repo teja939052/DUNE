@@ -1,0 +1,102 @@
+[
+  {
+    "id": "c06-ch01-patterns",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "title": "Patterns in Mathematics",
+    "order": 1,
+    "coverage": "assessment_ready",
+    "summary": "Pattern in numbers, Visualising number sequences, Relations among number sequences, Patterns in shapes"
+  },
+  {
+    "id": "c06-ch02-angles",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "title": "Lines and Angles",
+    "order": 2,
+    "coverage": "assessment_ready",
+    "summary": "Understanding different types of lines, Identifying and measuring angles, Properties of intersecting and parallel lines, Real-life applications of lines and angles"
+  },
+  {
+    "id": "c06-ch03-numberplay",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "title": "Number Play",
+    "order": 3,
+    "coverage": "assessment_ready",
+    "summary": "Identifying factors and multiples, Prime and composite numbers, Divisibility rules for different numbers, Common factors, multiples and their uses, Prime factorisation technique, Finding HCF and LCM"
+  },
+  {
+    "id": "c06-ch04-datahandling",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "title": "Data Handling and Presentation",
+    "order": 4,
+    "coverage": "assessment_ready",
+    "summary": "Methods of data collection and organisation, Using pictographs, Bar graphs and pie charts, Interpreting and analysing graphical data, Real-life applications of data presentation"
+  },
+  {
+    "id": "c06-ch05-primetime",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "title": "Prime Time",
+    "order": 5,
+    "coverage": "assessment_ready",
+    "summary": "Understanding prime numbers and their significance, Factorisation and divisibility properties, Applications of prime numbers in cryptography and real-world problems"
+  },
+  {
+    "id": "c06-ch06-perimeter",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "title": "Perimeter and Area",
+    "order": 6,
+    "coverage": "assessment_ready",
+    "summary": "Understanding the concept of perimeter for different shapes, Formulas for rectangles, squares and triangles, Applications of area in real-life scenarios"
+  },
+  {
+    "id": "c06-ch07-fractions",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "title": "Fractions",
+    "order": 7,
+    "coverage": "assessment_ready",
+    "summary": "Understanding different types of fractions, Comparing, simplifying and converting fractions, Addition and subtraction of fractions"
+  },
+  {
+    "id": "c06-ch08-constructions",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "title": "Playing with Constructions",
+    "order": 8,
+    "coverage": "assessment_ready",
+    "summary": "Learning precise constructions using a compass and ruler, Drawing circles, perpendicular bisectors and angles"
+  },
+  {
+    "id": "c06-ch09-symmetry",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "title": "Symmetry",
+    "order": 9,
+    "coverage": "assessment_ready",
+    "summary": "Identifying symmetrical objects in real life, Understanding lines of symmetry and rotational symmetry, Exploring symmetrical patterns in nature and architecture"
+  },
+  {
+    "id": "c06-ch10-zeroside",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "title": "The Other Side of Zero",
+    "order": 10,
+    "coverage": "assessment_ready",
+    "summary": "Exploring negative numbers and their real-life applications, Understanding zero and its significance, Applying operations on integers in different contexts"
+  }
+]

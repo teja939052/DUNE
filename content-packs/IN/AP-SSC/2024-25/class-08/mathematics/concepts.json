@@ -1,0 +1,72 @@
+[
+  {
+    "id": "number-sense",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 8,
+    "subjectId": "mathematics",
+    "chapterId": "ap-ssc-2024-25-c08-mat-linear-equations",
+    "title": "Number Sense",
+    "description": "Doing the same operation to both sides keeps an equation balanced.",
+    "learningObjectives": ["Keep an equation balanced while isolating the variable."],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "sourceIds": ["src-ap-ssc-c08-mathematics-2024-25"],
+    "version": 1
+  },
+  {
+    "id": "inverse-operations",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 8,
+    "subjectId": "mathematics",
+    "chapterId": "ap-ssc-2024-25-c08-mat-linear-equations",
+    "title": "Inverse Operations",
+    "description": "Use the opposite operation to move a term across the equals sign.",
+    "learningObjectives": ["Undo multiplication and division with the opposite operation."],
+    "prerequisiteConceptIds": ["number-sense"],
+    "recommendedDifficulty": 1,
+    "sourceIds": ["src-ap-ssc-c08-mathematics-2024-25"],
+    "version": 1
+  },
+  {
+    "id": "distributive-parenthesis",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 8,
+    "subjectId": "mathematics",
+    "chapterId": "ap-ssc-2024-25-c08-mat-linear-equations",
+    "title": "Distributive Property",
+    "description": "Multiply the outside term by every term inside brackets.",
+    "learningObjectives": ["Remove brackets correctly before solving."],
+    "prerequisiteConceptIds": ["inverse-operations"],
+    "recommendedDifficulty": 3,
+    "sourceIds": ["src-ap-ssc-c08-mathematics-2024-25"],
+    "version": 1
+  },
+  {
+    "id": "two-step-equations",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 8,
+    "subjectId": "mathematics",
+    "chapterId": "ap-ssc-2024-25-c08-mat-linear-equations",
+    "title": "Two-Step Equations",
+    "description": "Undo addition first, then undo multiplication by dividing.",
+    "learningObjectives": ["Solve two-step equations in the correct operation order."],
+    "prerequisiteConceptIds": ["distributive-parenthesis"],
+    "recommendedDifficulty": 2,
+    "sourceIds": ["src-ap-ssc-c08-mathematics-2024-25"],
+    "version": 1
+  },
+  {
+    "id": "variables-both-sides",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 8,
+    "subjectId": "mathematics",
+    "chapterId": "ap-ssc-2024-25-c08-mat-linear-equations",
+    "title": "Variables on Both Sides",
+    "description": "Gather like terms on one side before solving.",
+    "learningObjectives": ["Collect variable terms on one side, then solve."],
+    "prerequisiteConceptIds": ["two-step-equations"],
+    "recommendedDifficulty": 4,
+    "sourceIds": ["src-ap-ssc-c08-mathematics-2024-25"],
+    "version": 1
+  }
+]

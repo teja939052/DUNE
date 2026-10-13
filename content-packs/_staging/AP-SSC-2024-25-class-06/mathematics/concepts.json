@@ -1,0 +1,383 @@
+[
+  {
+    "id": "c06-con-01-patterns-numbers",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "chapterId": "c06-ch01-patterns",
+    "title": "Number Patterns",
+    "description": "Visualising number sequences and relations among number sequences",
+    "learningObjectives": [
+      "Identify patterns in number sequences",
+      "Visualise number sequences and their relationships",
+      "Extend number patterns following a rule",
+      "Recognise square and triangular numbers"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 40,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c06-con-01-patterns-shapes",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "chapterId": "c06-ch01-patterns",
+    "title": "Patterns in Shapes",
+    "description": "Pattern in shapes and relation to number sequences",
+    "learningObjectives": [
+      "Identify patterns in shapes",
+      "Relate shape patterns to number sequences",
+      "Create shape patterns following a rule",
+      "Understand the connection between numeric and spatial patterns"
+    ],
+    "prerequisiteConceptIds": ["c06-con-01-patterns-numbers"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 35,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c06-con-02-lines-intersecting",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "chapterId": "c06-ch02-angles",
+    "title": "Intersecting Lines and Angles",
+    "description": "Identifying and measuring angles, properties of intersecting and parallel lines",
+    "learningObjectives": [
+      "Identify different types of lines (parallel, perpendicular, intersecting)",
+      "Measure and classify angles (acute, obtuse, right, straight)",
+      "Understand properties of angles formed by intersecting lines",
+      "Recognise corresponding, alternate, and interior angles"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c06-con-02-lines-parallel",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "chapterId": "c06-ch02-angles",
+    "title": "Parallel Lines",
+    "description": "Real-life applications of lines and angles",
+    "learningObjectives": [
+      "Identify parallel lines in real-world contexts",
+      "Understand the transversal angle relationships",
+      "Apply properties of parallel lines to solve problems",
+      "Recognise parallel lines in architecture and design"
+    ],
+    "prerequisiteConceptIds": ["c06-con-02-lines-intersecting"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 35,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c06-con-03-numberplay-factors",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "chapterId": "c06-ch03-numberplay",
+    "title": "Factors and Multiples",
+    "description": "Identifying factors and multiples, prime and composite numbers",
+    "learningObjectives": [
+      "Identify factors and multiples of a given number",
+      "Distinguish between prime and composite numbers",
+      "Apply divisibility rules for different numbers",
+      "Find HCF and LCM using prime factorisation"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 50,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c06-con-03-numberplay-prime",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "chapterId": "c06-ch03-numberplay",
+    "title": "Prime Numbers and Cryptography",
+    "description": "Understanding prime numbers and their significance",
+    "learningObjectives": [
+      "Define prime and composite numbers",
+      "Understand the significance of prime numbers",
+      "Apply prime number concepts in cryptography basics",
+      "Identify prime numbers using divisibility rules"
+    ],
+    "prerequisiteConceptIds": ["c06-con-03-numberplay-factors"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 35,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c06-con-04-data-pictographs",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "chapterId": "c06-ch04-datahandling",
+    "title": "Pictographs and Bar Graphs",
+    "description": "Methods of data collection and organisation, using pictographs, bar graphs and pie charts",
+    "learningObjectives": [
+      "Collect and organise data for hypothesis testing",
+      "Create and interpret pictographs",
+      "Create and interpret bar graphs",
+      "Create and interpret pie charts",
+      "Analyse and interpret graphical data"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c06-con-04-data-frequency",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "chapterId": "c06-ch04-datahandling",
+    "title": "Frequency Distribution",
+    "description": "Interpreting and analysing graphical data, real-life applications",
+    "learningObjectives": [
+      "Arrange data into groups and frequency distributions",
+      "Represent grouped data through bar graphs",
+      "Interpret frequency distributions",
+      "Relate data representation to real-life situations"
+    ],
+    "prerequisiteConceptIds": ["c06-con-04-data-pictographs"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 35,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c06-con-05-prime-applications",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "chapterId": "c06-ch05-primetime",
+    "title": "Prime Numbers in Real-World Contexts",
+    "description": "Applications of prime numbers in cryptography and real-world problems",
+    "learningObjectives": [
+      "Understand why prime numbers are significant in mathematics",
+      "Apply prime number concepts in real-world problem-solving",
+      "Recognise prime numbers in different contexts",
+      "Understand basic applications in cryptography"
+    ],
+    "prerequisiteConceptIds": ["c06-con-03-numberplay-prime"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 40,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c06-con-06-perimeter-shapes",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "chapterId": "c06-ch06-perimeter",
+    "title": "Perimeter of Shapes",
+    "description": "Understanding perimeter for different shapes and real-life applications",
+    "learningObjectives": [
+      "Differentiate between area and perimeter",
+      "Formulate perimeter of square, rectangle, and triangle",
+      "Apply perimeter concept in daily life situations",
+      "Solve problems involving perimeter of regular polygons"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 40,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c06-con-06-area-shapes",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "chapterId": "c06-ch06-perimeter",
+    "title": "Area of Shapes",
+    "description": "Applications of area in real-life scenarios",
+    "learningObjectives": [
+      "Understand concept of area as measurement using a basic unit",
+      "Find area of square, rectangle, and triangle",
+      "Apply area concept in real-life situations",
+      "Solve area maze puzzles and real-world problems"
+    ],
+    "prerequisiteConceptIds": ["c06-con-06-perimeter-shapes"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 40,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c06-con-07-fractions-proper",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "chapterId": "c06-ch07-fractions",
+    "title": "Proper and Improper Fractions",
+    "description": "Understanding different types of fractions, comparing, simplifying and converting",
+    "learningObjectives": [
+      "Identify proper, improper, and mixed fractions",
+      "Compare and order fractions with different denominators",
+      "Simplify fractions to lowest form",
+      "Convert between improper fractions and mixed numbers"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c06-con-07-fractions-operations",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "chapterId": "c06-ch07-fractions",
+    "title": "Fraction Operations",
+    "description": "Addition and subtraction of fractions",
+    "learningObjectives": [
+      "Add and subtract fractions with same denominator",
+      "Add and subtract fractions with different denominators",
+      "Solve daily life problems involving fractions",
+      "Understand the concept of a common denominator"
+    ],
+    "prerequisiteConceptIds": ["c06-con-07-fractions-proper"],
+    "recommendedDifficulty": 2,
+    "estimatedMinutes": 50,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c06-con-08-constructions-basic",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "chapterId": "c06-ch08-constructions",
+    "title": "Basic Constructions",
+    "description": "Learning precise constructions using a compass and ruler",
+    "learningObjectives": [
+      "Construct circles using a compass",
+      "Draw perpendicular bisectors of line segments",
+      "Construct angles of specific measures",
+      "Construct copies of given angles"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 55,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c06-con-08-constructions-advanced",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "chapterId": "c06-ch08-constructions",
+    "title": "Advanced Constructions",
+    "description": "Drawing circles, perpendicular bisectors and angles",
+    "learningObjectives": [
+      "Draw circles with given radius",
+      "Construct perpendicular bisectors",
+      "Bisect given angles",
+      "Construct angles of 60°, 90°, and 120°"
+    ],
+    "prerequisiteConceptIds": ["c06-con-08-constructions-basic"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c06-con-09-symmetry-types",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "chapterId": "c06-ch09-symmetry",
+    "title": "Lines and Rotational Symmetry",
+    "description": "Identifying symmetrical objects, lines of symmetry and rotational symmetry",
+    "learningObjectives": [
+      "Identify symmetrical objects in real life",
+      "Understand lines of symmetry",
+      "Understand rotational symmetry",
+      "Explore symmetrical patterns in nature and architecture"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 40,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c06-con-09-symmetry-patterns",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "chapterId": "c06-ch09-symmetry",
+    "title": "Symmetrical Patterns",
+    "description": "Exploring symmetrical patterns in nature and architecture",
+    "learningObjectives": [
+      "Create symmetrical patterns",
+      "Identify symmetry in nature and architecture",
+      "Understand the relationship between line and rotational symmetry",
+      "Apply symmetry concepts to design problems"
+    ],
+    "prerequisiteConceptIds": ["c06-con-09-symmetry-types"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 35,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c06-con-10-integers-negative",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "chapterId": "c06-ch10-zeroside",
+    "title": "Negative Numbers and Integers",
+    "description": "Exploring negative numbers and their real-life applications",
+    "learningObjectives": [
+      "Understand negative numbers and their representation",
+      "Apply operations on integers in different contexts",
+      "Understand the significance of zero",
+      "Use negative numbers in real-life situations (temperature, height)"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c06-con-10-integers-operations",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 6,
+    "subjectId": "mathematics",
+    "chapterId": "c06-ch10-zeroside",
+    "title": "Operations on Integers",
+    "description": "Applying operations on integers in different contexts",
+    "learningObjectives": [
+      "Add and subtract integers using number line",
+      "Understand integer operations rules",
+      "Solve problems involving integer operations",
+      "Apply integer operations in real-world contexts"
+    ],
+    "prerequisiteConceptIds": ["c06-con-10-integers-negative"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 40,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  }
+]

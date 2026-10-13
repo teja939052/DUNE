@@ -1,0 +1,152 @@
+[
+  {
+    "id": "c05-ch01-fishtale",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "title": "The Fish Tale",
+    "order": 1,
+    "coverage": "assessment_ready",
+    "summary": "Travel stories helping students understand distance, routes, and estimation"
+  },
+  {
+    "id": "c05-ch02-shapes",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "title": "Shapes and Angles",
+    "order": 2,
+    "coverage": "assessment_ready",
+    "summary": "Introduces angles using the idea of turns instead of degrees"
+  },
+  {
+    "id": "c05-ch03-squares",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "title": "How Many Squares?",
+    "order": 3,
+    "coverage": "assessment_ready",
+    "summary": "Students learn about squares and counting squares in shapes"
+  },
+  {
+    "id": "c05-ch04-wholes",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "title": "Parts and Wholes",
+    "order": 4,
+    "coverage": "assessment_ready",
+    "summary": "Students learn about fractions as parts of a whole through pictures"
+  },
+  {
+    "id": "c05-ch05-same",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "title": "Does it Look the Same?",
+    "order": 5,
+    "coverage": "assessment_ready",
+    "summary": "Introduces symmetry through designs and shapes"
+  },
+  {
+    "id": "c05-ch06-factor",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "title": "Be My Multiple, I'll be Your Factor",
+    "order": 6,
+    "coverage": "assessment_ready",
+    "summary": "Students learn about multiples and factors through grouping concepts"
+  },
+  {
+    "id": "c05-ch07-pattern",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "title": "Can You See the Pattern?",
+    "order": 7,
+    "coverage": "assessment_ready",
+    "summary": "Activities help in identifying, extending, and creating patterns"
+  },
+  {
+    "id": "c05-ch08-mapping",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "title": "Mapping Your Way",
+    "order": 8,
+    "coverage": "assessment_ready",
+    "summary": "Teaches how to read maps, use symbols, and understand directions"
+  },
+  {
+    "id": "c05-ch09-boxes",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "title": "Boxes and Sketches",
+    "order": 9,
+    "coverage": "assessment_ready",
+    "summary": "Students explore different shapes and repeating patterns"
+  },
+  {
+    "id": "c05-ch10-tenths",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "title": "Tenths and Hundredths",
+    "order": 10,
+    "coverage": "assessment_ready",
+    "summary": "Focuses on measuring weight and capacity using standard units"
+  },
+  {
+    "id": "c05-ch11-area",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "title": "Area and its Boundary",
+    "order": 11,
+    "coverage": "assessment_ready",
+    "summary": "Students learn about area using a basic unit and comparing areas"
+  },
+  {
+    "id": "c05-ch12-smart",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "title": "Smart Charts",
+    "order": 12,
+    "coverage": "assessment_ready",
+    "summary": "Introduces data handling using pictographs and simple charts"
+  },
+  {
+    "id": "c05-ch13-multiply",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "title": "Ways to Multiply and Divide",
+    "order": 13,
+    "coverage": "assessment_ready",
+    "summary": "Strengthens multiplication and grouping concepts through farm-based contexts"
+  },
+  {
+    "id": "c05-ch14-heavy",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "title": "How Big? How Heavy?",
+    "order": 14,
+    "coverage": "assessment_ready",
+    "summary": "Focuses on measuring weight and capacity; unit comparison and conversion"
+  },
+  {
+    "id": "c05-ch15-data",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "title": "Data Through Pictures",
+    "order": 15,
+    "coverage": "assessment_ready",
+    "summary": "Final chapter introduces data handling using pictographs and simple charts"
+  }
+]

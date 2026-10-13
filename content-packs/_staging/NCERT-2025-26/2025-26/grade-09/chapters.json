@@ -1,0 +1,8 @@
+[
+  { "id": "ncert-2025-c09-mat-number-systems", "curriculumId": "IN.NCERT.2025-26", "grade": 9, "subjectId": "mathematics", "title": "Number Systems", "order": 1, "coverage": "catalog_only", "summary": "CBSE syllabus unit: number systems.", "version": 1 },
+  { "id": "ncert-2025-c09-mat-algebra", "curriculumId": "IN.NCERT.2025-26", "grade": 9, "subjectId": "mathematics", "title": "Algebra", "order": 2, "coverage": "catalog_only", "summary": "CBSE syllabus unit includes polynomials and linear equations in two variables.", "version": 1 },
+  { "id": "ncert-2025-c09-mat-coordinate-geometry", "curriculumId": "IN.NCERT.2025-26", "grade": 9, "subjectId": "mathematics", "title": "Coordinate Geometry", "order": 3, "coverage": "catalog_only", "summary": "CBSE syllabus unit: locating and plotting points in the plane.", "version": 1 },
+  { "id": "ncert-2025-c09-mat-geometry", "curriculumId": "IN.NCERT.2025-26", "grade": 9, "subjectId": "mathematics", "title": "Geometry", "order": 4, "coverage": "catalog_only", "summary": "CBSE syllabus unit includes lines and angles, triangles, and quadrilaterals.", "version": 1 },
+  { "id": "ncert-2025-c09-mat-mensuration", "curriculumId": "IN.NCERT.2025-26", "grade": 9, "subjectId": "mathematics", "title": "Mensuration", "order": 5, "coverage": "catalog_only", "summary": "CBSE syllabus unit: areas and volumes.", "version": 1 },
+  { "id": "ncert-2025-c09-mat-statistics", "curriculumId": "IN.NCERT.2025-26", "grade": 9, "subjectId": "mathematics", "title": "Statistics", "order": 6, "coverage": "catalog_only", "summary": "CBSE syllabus unit: statistics and probability.", "version": 1 }
+]

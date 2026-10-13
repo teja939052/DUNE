@@ -1,0 +1,325 @@
+[
+  {
+    "id": "c05-con-01-fishtale-distance",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "chapterId": "c05-ch01-fishtale",
+    "title": "Distance and Estimation",
+    "description": "Understanding distance through travel stories and route estimation",
+    "learningObjectives": [
+      "Estimate distances in practical situations",
+      "Compare journeys and calculate distances",
+      "Pay attention to estimation skills for word problems"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c05-con-01-fishtale-routes",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "chapterId": "c05-ch01-fishtale",
+    "title": "Routes and Journeys",
+    "description": "Comparing journeys and calculating distances between routes",
+    "learningObjectives": [
+      "Compare different journeys and routes",
+      "Calculate distances in practical situations",
+      "Understand the concept of estimation in travel"
+    ],
+    "prerequisiteConceptIds": ["c05-con-01-fishtale-distance"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c05-con-02-shapes-angles",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "chapterId": "c05-ch02-shapes",
+    "title": "Understanding Angles",
+    "description": "Introducing angles using the idea of turns instead of degrees",
+    "learningObjectives": [
+      "Understand angles as turns (full, half, quarter turns)",
+      "Distinguish between different types of turns",
+      "Build the base for geometry-related questions"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 40,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c05-con-03-shapes-properties",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "chapterId": "c05-ch02-shapes",
+    "title": "Shape Properties",
+    "description": "Learning about different shapes and their properties",
+    "learningObjectives": [
+      "Identify different 2D shapes",
+      "Count sides and corners of shapes",
+      "Understand basic shape classification"
+    ],
+    "prerequisiteConceptIds": ["c05-con-02-shapes-angles"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 35,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c05-con-04-squares-counting",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "chapterId": "c05-ch03-squares",
+    "title": "Counting Squares",
+    "description": "Learning how to count squares in various shapes",
+    "learningObjectives": [
+      "Count the number of squares in a shape",
+      "Understand area as counting unit squares",
+      " differentiate between small and large squares"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 30,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c05-con-05-wholes-fractions",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "chapterId": "c05-ch04-wholes",
+    "title": "Understanding Fractions",
+    "description": "Fractions as parts of a whole through pictures and daily-life examples",
+    "learningObjectives": [
+      "Understand halves and quarters as parts of a whole",
+      "Identify proper and improper fractions",
+      "Perform simple fraction operations with visual aids"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 50,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c05-con-06-symmetry-shapes",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "chapterId": "c05-ch05-same",
+    "title": "Lines of Symmetry",
+    "description": "Identifying lines of symmetry in designs and shapes",
+    "learningObjectives": [
+      "Identify lines of symmetry in 2D shapes",
+      "Fold shapes to find lines of symmetry",
+      "Create symmetrical designs"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 35,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c05-con-07-factors-game",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "chapterId": "c05-ch06-factor",
+    "title": "Multiples and Factors",
+    "description": "Learning about multiples and factors through the game concept",
+    "learningObjectives": [
+      "Identify multiples of a given number",
+      "Find factors of a given number",
+      "Understand the relationship between multiples and factors"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 40,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c05-con-08-patterns",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "chapterId": "c05-ch07-pattern",
+    "title": "Number and Shape Patterns",
+    "description": "Identifying, extending, and creating patterns",
+    "learningObjectives": [
+      "Recognize and extend patterns in numbers and shapes",
+      "Create own patterns following a rule",
+      "Identify the core unit of a pattern"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c05-con-09-mapping-directions",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "chapterId": "c05-ch08-mapping",
+    "title": "Map Directions and Symbols",
+    "description": "Reading maps using symbols and understanding directions",
+    "learningObjectives": [
+      "Read and interpret map symbols",
+      "Understand cardinal directions (N, S, E, W)",
+      "Follow routes on a map logically"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 40,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c05-con-010-boxes-shapes",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "chapterId": "c05-ch09-boxes",
+    "title": "3D Shapes and Nets",
+    "description": "Exploring different shapes and repeating patterns in 3D",
+    "learningObjectives": [
+      "Identify 3D shapes (cubes, cuboids)",
+      "Understand faces, edges, and vertices",
+      "Create nets for 3D shapes"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c05-con-011-tenths-decimals",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "chapterId": "c05-ch10-tenths",
+    "title": "Tenths and Hundredths",
+    "description": "Understanding decimal fractions and place value",
+    "learningObjectives": [
+      "Convert fractions to decimal form (tenths/hundredths)",
+      "Understand place value in decimal numbers",
+      "Compare decimal numbers"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 2,
+    "estimatedMinutes": 50,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c05-con-012-area-boundary",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "chapterId": "c05-ch11-area",
+    "title": "Area and Boundary",
+    "description": "Measuring area using a basic unit and comparing areas",
+    "learningObjectives": [
+      "Concept of measurement using a basic unit",
+      "Find area of a square, rectangle, triangle",
+      "Understand area between two rectangles"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c05-con-013-smart-charts",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "chapterId": "c05-ch12-smart",
+    "title": "Data Representation",
+    "description": "Introducing data handling using pictographs and charts",
+    "learningObjectives": [
+      "Collect and organise data",
+      "Create and interpret pictographs",
+      "Create and interpret simple bar charts"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 40,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c05-con-014-multiply-divide",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "chapterId": "c05-ch13-multiply",
+    "title": "Multiplication and Division Methods",
+    "description": "Strengthening multiplication and grouping concepts",
+    "learningObjectives": [
+      "Solve multiplication problems using grouping",
+      "Understand division as repeated subtraction",
+      "Apply multiplication in real-life contexts (farm scenarios)"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 50,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c05-con-015-weight-capacity",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "chapterId": "c05-ch14-heavy",
+    "title": "Weight and Capacity",
+    "description": "Measuring weight and capacity using standard units",
+    "learningObjectives": [
+      "Measure weight in kilograms and grams",
+      "Measure capacity in litres and millilitres",
+      "Convert between different units of weight and capacity"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c05-con-016-data-pictures",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 5,
+    "subjectId": "mathematics",
+    "chapterId": "c05-ch15-data",
+    "title": "Data Through Pictures",
+    "description": "Final data handling chapter with pictographs and charts",
+    "learningObjectives": [
+      "Collect and organise information visually",
+      "Interpret data from pictographs and charts",
+      "Draw conclusions from visual data representation"
+    ],
+    "prerequisiteConceptIds": ["c05-con-013-smart-charts"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 35,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  }
+]

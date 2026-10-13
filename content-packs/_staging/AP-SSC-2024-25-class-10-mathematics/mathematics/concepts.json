@@ -1,0 +1,349 @@
+[
+  {
+    "id": "c10-con-01-realnumbers",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "chapterId": "c10-ch01-realnumbers",
+    "title": "Real Numbers and Fundamental Theorem",
+    "description": "Euclid's division lemma, Fundamental Theorem of Arithmetic, irrational numbers",
+    "learningObjectives": [
+      "Apply Euclid's division lemma to find HCF and LCM",
+      "Understand the Fundamental Theorem of Arithmetic",
+      "Prove the irrationality of √2, √3, and √5",
+      "Determine whether a rational number has terminating or non-terminating recurring decimal expansion"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 50,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c10-con-01-realnumbers-decimals",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "chapterId": "c10-ch01-realnumbers",
+    "title": "Decimal Expansions of Rational Numbers",
+    "description": "Terminating and non-terminating recurring decimals",
+    "learningObjectives": [
+      "Determine if a rational number has terminating or non-terminating decimal expansion",
+      "Convert recurring decimals to fraction form",
+      "Apply properties of decimal expansions in problem-solving",
+      "Understand the relationship between denominators and decimal types"
+    ],
+    "prerequisiteConceptIds": ["c10-con-01-realnumbers"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 35,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c10-con-02-polynomials",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "chapterId": "c10-ch02-polynomials",
+    "title": "Polynomials - Zeros and Coefficients",
+    "description": "Relationship between zeros and coefficients, factorisation",
+    "learningObjectives": [
+      "Find zeros of a polynomial",
+      "Establish relationship between zeros and coefficients (especially for quadratic)",
+      "Factorise polynomials using various methods",
+      "Apply algebraic identities in factorisation"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c10-con-03-pairof-linear",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "chapterId": "c10-ch03-pairof-linear",
+    "title": "Pair of Linear Equations in Two Variables",
+    "description": "Graphical and algebraic methods of solution",
+    "learningObjectives": [
+      "Solve pair of linear equations graphically",
+      "Determine consistency/inconsistency of a pair of equations",
+      "Solve algebraically by substitution method",
+      "Solve algebraically by elimination method",
+      "Solve algebraically by cross-multiplication method",
+      "Apply to situational problems from daily life"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 55,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c10-con-04-quadraticequations",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "chapterId": "c10-ch04-quadraticequations",
+    "title": "Quadratic Equations - Solutions and Nature",
+    "description": "Solving quadratic equations, discriminant and nature of roots",
+    "learningObjectives": [
+      "Solve quadratic equations by factorisation",
+      "Solve quadratic equations by quadratic formula",
+      "Find discriminant and determine nature of roots",
+      "Apply to situational problems involving daily activities",
+      "Understand the relationship between discriminant and number of solutions"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c10-con-05-arithmeticprogression",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "chapterId": "c10-ch05-arithmeticprogression",
+    "title": "Arithmetic Progressions - nth Term and Sum",
+    "description": "Finding nth term and sum of first n terms",
+    "learningObjectives": [
+      "Find the nth term of an arithmetic progression",
+      "Calculate the sum of first n terms of an AP",
+      "Apply AP concepts to solve daily life problems",
+      "Identify whether a sequence is an arithmetic progression"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 40,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c10-con-06-triangles-similarity",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "chapterId": "c10-ch06-triangles",
+    "title": "Triangle Similarity Criteria",
+    "description": "AA, SSS, SAS similarity conditions",
+    "learningObjectives": [
+      "Apply AA (Angle-Angle) similarity criterion",
+      "Apply SSS (Side-Side-Side) similarity criterion",
+      "Apply SAS (Side-Angle-Side) similarity criterion",
+      "Use similarity to find unknown sides and angles",
+      "Prove triangles are similar using given conditions"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 50,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c10-con-07-coordinate-distance",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "chapterId": "c10-ch07-coordinate",
+    "title": "Distance Formula and Section Formula",
+    "description": "Calculating distances and dividing line segments",
+    "learningObjectives": [
+      "Calculate distance between two points using the distance formula",
+      "Apply the section formula for internal division",
+      "Find the midpoint of a line segment",
+      "Calculate area of a triangle given its vertices"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c10-con-08-trigonometry-ratios",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "chapterId": "c10-ch08-trigonometry",
+    "title": "Trigonometric Ratios and Their Values",
+    "description": "Ratios for 30°, 45°, 60°, and identities",
+    "learningObjectives": [
+      "Define trigonometric ratios (sin, cos, tan) for acute angles",
+      "Calculate trigonometric ratios for 0°, 30°, 45°, 60°, 90°",
+      "Prove the identity sin²θ + cos²θ = 1",
+      "Apply trigonometric ratios to solve problems"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c10-con-09-trigonometry-identities",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "chapterId": "c10-ch08-trigonometry",
+    "title": "Trigonometric Identities",
+    "description": "Proving and applying trigonometric identities",
+    "learningObjectives": [
+      "Prove the identity sin²θ + cos²θ = 1",
+      "Apply trigonometric identities to simplify expressions",
+      "Solve trigonometric equations",
+      "Apply identities in problem-solving contexts"
+    ],
+    "prerequisiteConceptIds": ["c10-con-08-trigonometry-ratios"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 40,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c10-con-10-trigonometry-applications",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "chapterId": "c10-ch09-some-applications",
+    "title": "Applications of Trigonometry - Heights and Distances",
+    "description": "Angles of elevation and depression, real-world problem-solving",
+    "learningObjectives": [
+      "Solve problems involving angles of elevation",
+      "Solve problems involving angles of depression",
+      "Calculate heights and distances using trigonometry",
+      "Apply trigonometry to real-world contexts (surveying, architecture)",
+      "Work with angles of 30°, 45°, and 60° only"
+    ],
+    "prerequisiteConceptIds": ["c10-con-08-trigonometry-ratios"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c10-con-11-circles-tangents",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "chapterId": "c10-ch10-circles",
+    "title": "Circle Tangents and Properties",
+    "description": "Tangent properties, radius-tangent perpendicularity",
+    "learningObjectives": [
+      "Understand that tangent is perpendicular to radius at point of contact",
+      "Prove that lengths of tangents from an external point are equal",
+      "Apply tangent properties to solve problems",
+      "Solve problems involving circles and tangents"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 40,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c10-con-11-constructions-methods",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "chapterId": "c10-ch11-constructions",
+    "title": "Constructions - Line Segments and Tangents",
+    "description": "Division of line segments and construction of tangents",
+    "learningObjectives": [
+      "Divide a line segment in a given ratio",
+      "Construct tangents to a circle from an external point",
+      "Construct similar triangles",
+      "Use ruler and compass for accurate constructions"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 50,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c10-con-12-areas-sectors",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "chapterId": "c10-ch12-areas-related-circles",
+    "title": "Areas of Sectors and Segments of Circles",
+    "description": "Calculating areas related to circles",
+    "learningObjectives": [
+      "Calculate area of a sector of a circle",
+      "Calculate area of a segment of a circle",
+      "Solve problems involving perimeter and area of circular figures",
+      "Apply central angles of 60°, 90°, and 120°",
+      "Work with problems combining circles and line segments"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c10-con-13-volumes",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "chapterId": "c10-ch13-surfaceareas",
+    "title": "Surface Areas and Volumes of Solids",
+    "description": "Combinations of solids and conversion between shapes",
+    "learningObjectives": [
+      "Calculate surface area of combinations of solids (cube, cuboid, sphere, hemisphere, cylinder, cone)",
+      "Calculate volume of combinations of solids",
+      "Solve problems involving conversion of one solid shape to another",
+      "Apply to real-world contexts (moulding, manufacturing, etc.)"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 55,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c10-con-14-statistics",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "chapterId": "c10-ch14-statistics",
+    "title": "Statistics - Measures of Central Tendency",
+    "description": "Mean, median, mode of grouped data",
+    "learningObjectives": [
+      "Calculate mean, median, and mode of grouped data",
+      "Construct cumulative frequency graphs",
+      "Apply the step-deviation method for mean calculation",
+      "Solve real-world statistics problems",
+      "Understand bimodal situation avoidance"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 50,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c10-con-15-probability",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "chapterId": "c10-ch15-probability",
+    "title": "Probability - Classical Definition",
+    "description": "Simple problems finding probability of an event",
+    "learningObjectives": [
+      "Understand the classical definition of probability",
+      "Calculate probability of simple events",
+      " Differentiate between experimental and theoretical probability",
+      "Solve simple probability problems involving coins, dice, and cards"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 35,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  }
+]

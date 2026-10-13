@@ -1,0 +1,54 @@
+{
+  "curriculum": {
+    "id": "IN.AP-SSC.2024-25",
+    "region": "IN-AP",
+    "board": "Andhra Pradesh Board of Secondary Education (AP SSC)",
+    "academicYear": "2024-25",
+    "defaultLanguage": "en",
+    "supportedGrades": [8, 10],
+    "languages": ["en"],
+    "sourceIds": ["src-ap-ssc-textbook-catalogue-2024-25"],
+    "contentVersion": 1,
+    "status": "active"
+  },
+  "sources": [
+    {
+      "id": "src-ap-ssc-textbook-catalogue-2024-25",
+      "title": "Download Telugu/English Bilingual Text Books / Work Books (2024-2025)",
+      "issuingOrganisation": "Government of Andhra Pradesh, Department of School Education",
+      "url": "https://cse.ap.gov.in/textBooksDownloadingPageTEBilingual",
+      "edition": "2024-2025",
+      "academicYear": "2024-25",
+      "language": "en",
+      "reviewStatus": "verified",
+      "notes": "Confirms which SUBJECT BOOKS exist per class and gives official download URLs. It does NOT publish chapter lists, so no chapter titles beyond the one fully built pack are asserted."
+    },
+    {
+      "id": "src-ap-ssc-c08-mathematics-2024-25",
+      "title": "AP Class 8 Mathematics Textbooks (Semester 1 and Semester 2)",
+      "issuingOrganisation": "Government of Andhra Pradesh, Department of School Education",
+      "url": "https://cse.ap.gov.in/downloadBooks/Maths Books/8_Maths_SEM-1_Textbook.pdf/8",
+      "edition": "2024-2025",
+      "academicYear": "2024-25",
+      "language": "en",
+      "reviewStatus": "verified",
+      "notes": "Used as the reference pack for the Class 8 Linear Equations chapter. The chapter's 12 questions were verified by the project's own test suite (answers recomputed), not by reading the textbook page by page."
+    }
+  ],
+  "packs": [
+    { "grade": 8, "subjectId": "mathematics", "path": "class-08/mathematics" },
+    { "grade": 10, "subjectId": "mathematics", "path": "class-10" },
+    { "grade": 10, "subjectId": "biology", "path": "class-10" },
+    { "grade": 10, "subjectId": "physics", "path": "class-10" },
+    { "grade": 10, "subjectId": "english", "path": "class-10" },
+    { "grade": 10, "subjectId": "telugu", "path": "class-10" },
+    { "grade": 10, "subjectId": "hindi", "path": "class-10" },
+    { "grade": 10, "subjectId": "social-studies", "path": "class-10" }
+  ],
+  "contentVersion": 1,
+  "provenanceNotes": [
+    "Class 10 subject names and official book URLs come directly from the AP Department of School Education catalogue page listed in sources.",
+    "Class 10 has NO chapters, concepts, questions or lessons because that page does not publish chapter lists. Those are marked catalog_only rather than invented.",
+    "The Class 8 Linear Equations chapter is the reference pack: it has a verified question bank, concept graph and reviewed fallback lessons."
+  ]
+}

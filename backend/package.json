@@ -1,0 +1,32 @@
+{
+  "name": "ahapath-backend",
+  "version": "1.0.0",
+  "description": "AhaPath backend - Express API for adaptive learning",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "curriculum:validate": "node curriculum/cli.js validate",
+    "curriculum:seed": "node curriculum/cli.js seed",
+    "curriculum:report": "node curriculum/cli.js report",
+    "test": "node --test curriculum.test.mjs engine.test.mjs lesson-ai.test.mjs",
+    "test:engine": "node engine.test.mjs",
+    "test:curriculum": "node curriculum.test.mjs",
+    "test:lesson": "node lesson-ai.test.mjs",
+    "test:integration": "node integration.test.mjs",
+    "test:demo": "node two-student-demo.mjs",
+    "test:all": "node curriculum.test.mjs && node engine.test.mjs && node lesson-ai.test.mjs"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "mongoose": "^9.11.1",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

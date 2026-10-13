@@ -1,0 +1,152 @@
+[
+  {
+    "id": "c10-ch01-realnumbers",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "title": "Real Numbers",
+    "order": 1,
+    "coverage": "assessment_ready",
+    "summary": "Real numbers, Euclid's division lemma, Fundamental Theorem of Arithmetic, irrationality of √2, √3, √5, decimal expansions of rational numbers in terms of terminating/non-terminating recurring decimals."
+  },
+  {
+    "id": "c10-ch02-polynomials",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "title": "Polynomials",
+    "order": 2,
+    "coverage": "assessment_ready",
+    "summary": "Zeros of a polynomial, relationship between zeros and coefficients of quadratic polynomials, factorisation of polynomials, algebraic identities."
+  },
+  {
+    "id": "c10-ch03-pairof-linear",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "title": "Pair of Linear Equations in Two Variables",
+    "order": 3,
+    "coverage": "assessment_ready",
+    "summary": "Graphical method of solution, consistency/inconsistency, algebraic conditions for number of solutions, solution by substitution, elimination, and cross-multiplication, situational problems."
+  },
+  {
+    "id": "c10-ch04-quadraticequations",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "title": "Quadratic Equations",
+    "order": 4,
+    "coverage": "assessment_ready",
+    "summary": "Standard form ax² + bx + c = 0 (a ≠ 0), solutions by factorisation, and by using quadratic formula, relationship between discriminant and nature of roots, situational problems based on daily activities."
+  },
+  {
+    "id": "c10-ch05-arithmeticprogression",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "title": "Arithmetic Progressions",
+    "order": 5,
+    "coverage": "assessment_ready",
+    "summary": "Motivation for studying AP, derivation of nth term and sum of first n terms, application in solving daily life problems."
+  },
+  {
+    "id": "c10-ch06-triangles",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "title": "Triangles",
+    "order": 6,
+    "coverage": "assessment_ready",
+    "summary": "Definitions, examples, and counter examples of similar triangles, conditions for similarity (AA, SSS, SAS), theorems about proportional sides and equal angles, Pythagorean theorem and its converse."
+  },
+  {
+    "id": "c10-ch07-coordinate",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "title": "Coordinate Geometry",
+    "order": 7,
+    "coverage": "assessment_ready",
+    "summary": "Review of concepts of coordinate geometry, graphs of linear equations, distance formula, section formula (internal division), area of a triangle."
+  },
+  {
+    "id": "c10-ch08-trigonometry",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "title": "Introduction to Trigonometry",
+    "order": 8,
+    "coverage": "assessment_ready",
+    "summary": "Trigonometric ratios of an acute angle of a right-angled triangle, proof of their existence, motivation of ratios at 0° and 90°, values of trigonometric ratios of 30°, 45°, and 60°, trigonometric identities."
+  },
+  {
+    "id": "c10-ch09-some-applications",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "title": "Some Applications of Trigonometry",
+    "order": 9,
+    "coverage": "assessment_ready",
+    "summary": "Introduction to trigonometry, angles of elevation and depression, problems on heights and distances with angles of 30°, 45°, and 60° only."
+  },
+  {
+    "id": "c10-ch10-circles",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "title": "Circles",
+    "order": 10,
+    "coverage": "assessment_ready",
+    "summary": "Tangent to a circle at the point of contact, perpendicular radius to tangent, lengths of tangents drawn from an external point are equal."
+  },
+  {
+    "id": "c10-ch11-constructions",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "title": "Constructions",
+    "order": 11,
+    "coverage": "assessment_ready",
+    "summary": "Division of a line segment in a given ratio, construction of tangents to a circle, construction of similar triangles."
+  },
+  {
+    "id": "c10-ch12-areas-related-circles",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "title": "Areas Related to Circles",
+    "order": 12,
+    "coverage": "assessment_ready",
+    "summary": "Area of sectors and segments of a circle, problems based on areas and perimeter/circumference of the above-said plane figures, central angles of 60°, 90°, and 120° only."
+  },
+  {
+    "id": "c10-ch13-surfaceareas",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "title": "Surface Areas and Volumes",
+    "order": 13,
+    "coverage": "assessment_ready",
+    "summary": "Surface areas and volumes of combinations of any two of the following: cubes, cuboids, spheres, hemispheres, and right circular cylinders/cones. Problems involving converting one solid shape to another."
+  },
+  {
+    "id": "c10-ch14-statistics",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "title": "Statistics",
+    "order": 14,
+    "coverage": "assessment_ready",
+    "summary": "Mean, median, and mode of grouped data (bimodal situation to be avoided), cumulative frequency graph."
+  },
+  {
+    "id": "c10-ch15-probability",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "subjectId": "mathematics",
+    "title": "Probability",
+    "order": 15,
+    "coverage": "assessment_ready",
+    "summary": "Classical definition of probability, simple problems in finding the probability of an event."
+  }
+]

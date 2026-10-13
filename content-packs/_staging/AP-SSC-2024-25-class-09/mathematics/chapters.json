@@ -1,0 +1,152 @@
+[
+  {
+    "id": "c09-ch01-numbersystems",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "title": "Number Systems",
+    "order": 1,
+    "coverage": "assessment_ready",
+    "summary": "Introduces irrational numbers, extends the number system to real numbers, and teaches representation on the number line. Students learn about rational and irrational numbers, decimal expansions, and operations on real numbers including the laws of exponents."
+  },
+  {
+    "id": "c09-ch02-polynomials",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "title": "Polynomials",
+    "order": 2,
+    "coverage": "assessment_ready",
+    "summary": "Covers the definition and types of polynomials, zeros of polynomials, and the Remainder Theorem and Factor Theorem. Students practice factorisation of polynomials using various methods and learn algebraic identities that are extensively used in higher mathematics."
+  },
+  {
+    "id": "c09-ch03-coordinate",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "title": "Coordinate Geometry",
+    "order": 3,
+    "coverage": "assessment_ready",
+    "summary": "Introduces the Cartesian plane, plotting points, and understanding the relationship between coordinates and geometric positions. This chapter establishes the connection between algebra and geometry that becomes central in Class 10 and beyond."
+  },
+  {
+    "id": "c09-ch04-lineq-two-var",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "title": "Linear Equations in Two Variables",
+    "order": 4,
+    "coverage": "assessment_ready",
+    "summary": "Expands upon single-variable equations to explore equations of the form ax + by + c = 0. Students learn to find solutions, plot graphs of linear equations, and understand how these equations represent straight lines on the coordinate plane."
+  },
+  {
+    "id": "c09-ch05-euclid",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "title": "Introduction to Euclid's Geometry",
+    "order": 5,
+    "coverage": "assessment_ready",
+    "summary": "Presents the axiomatic approach to geometry, covering Euclid's definitions, axioms, and postulates. This chapter teaches students how mathematical statements are proved using logical deduction."
+  },
+  {
+    "id": "c09-ch06-lines-angles",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "title": "Lines and Angles",
+    "order": 6,
+    "coverage": "assessment_ready",
+    "summary": "Explores the properties of intersecting and parallel lines, transversals, and the angle sum property. Triangles (Chapter 7) covers congruence criteria (SAS, ASA, AAS, SSS, RHS), properties of triangles, and important inequalities."
+  },
+  {
+    "id": "c09-ch07-triangles",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "title": "Triangles",
+    "order": 7,
+    "coverage": "assessment_ready",
+    "summary": "Covers congruence criteria (SAS, ASA, AAS, SSS, RHS), properties of triangles including angle property and exterior angle theorem. Develops logical reasoning skills essential for all geometric problem-solving."
+  },
+  {
+    "id": "c09-ch08-quadrilaterals",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "title": "Quadrilaterals",
+    "order": 8,
+    "coverage": "assessment_ready",
+    "summary": "Examines properties of parallelograms, rectangles, rhombuses, squares, and trapeziums. The mid-point theorem introduced here is frequently tested in examinations."
+  },
+  {
+    "id": "c09-ch09-circles",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "title": "Circles",
+    "order": 9,
+    "coverage": "assessment_ready",
+    "summary": "Covers angle subtended by chords, cyclic quadrilaterals, and properties of circles that form the basis for advanced geometry."
+  },
+  {
+    "id": "c09-ch10-herons",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "title": "Heron's Formula",
+    "order": 10,
+    "coverage": "assessment_ready",
+    "summary": "Provides a method to calculate triangle area when all three sides are known. Applications extend to calculating areas of quadrilaterals by dividing them into triangles, a practical skill for mensuration problems."
+  },
+  {
+    "id": "c09-ch11-surfaceareas",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "title": "Surface Areas and Volumes",
+    "order": 11,
+    "coverage": "assessment_ready",
+    "summary": "Students learn to calculate surface areas and volumes of cubes, cuboids, cylinders, cones, spheres, and hemispheres. These concepts have direct real-world applications in engineering, architecture, and everyday problem-solving."
+  },
+  {
+    "id": "c09-ch12-statistics",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "title": "Statistics",
+    "order": 12,
+    "coverage": "assessment_ready",
+    "summary": "Introduces data collection, presentation through various graphical methods, and measures of central tendency including mean, median, and mode. Students learn to organise raw data into frequency distributions and construct bar graphs, histograms, and frequency polygons."
+  },
+  {
+    "id": "c09-ch13-probability",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "title": "Probability",
+    "order": 13,
+    "coverage": "assessment_ready",
+    "summary": "Presents the experimental approach to probability, covering basic probability concepts, equally likely outcomes, and simple probability calculations. This chapter includes two appendices that provide additional practice problems and proofs of mathematical statements."
+  },
+  {
+    "id": "c09-ch14",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "title": "Advanced Number Concepts",
+    "order": 14,
+    "coverage": "assessment_ready",
+    "summary": "Extends number concepts beyond the standard curriculum, including additional properties of real numbers and advanced operations."
+  },
+  {
+    "id": "c09-ch15",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "title": "Geometric Constructions",
+    "order": 15,
+    "coverage": "assessment_ready",
+    "summary": "Detailed geometric constructions using standard tools, building on earlier geometry concepts."
+  }
+]

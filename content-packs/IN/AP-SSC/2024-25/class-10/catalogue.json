@@ -1,0 +1,65 @@
+[
+  {
+    "id": "mathematics",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "title": "Mathematics",
+    "order": 1,
+    "coverage": "catalog_only",
+    "note": "Subject confirmed in the official AP textbook catalogue. Chapter lists, concepts, questions and lessons are not yet sourced, so nothing beyond the official book link is claimed."
+  },
+  {
+    "id": "biology",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "title": "Biological Sciences",
+    "order": 2,
+    "coverage": "catalog_only",
+    "note": "Subject confirmed in the official AP textbook catalogue. Chapter lists, concepts, questions and lessons are not yet sourced, so nothing beyond the official book link is claimed."
+  },
+  {
+    "id": "physics",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "title": "Physical Sciences",
+    "order": 3,
+    "coverage": "catalog_only",
+    "note": "Subject confirmed in the official AP textbook catalogue. Chapter lists, concepts, questions and lessons are not yet sourced, so nothing beyond the official book link is claimed."
+  },
+  {
+    "id": "english",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "title": "English",
+    "order": 4,
+    "coverage": "catalog_only",
+    "note": "Subject confirmed in the official AP textbook catalogue. Chapter lists, concepts, questions and lessons are not yet sourced, so nothing beyond the official book link is claimed."
+  },
+  {
+    "id": "telugu",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "title": "Telugu",
+    "order": 5,
+    "coverage": "catalog_only",
+    "note": "Subject confirmed in the official AP textbook catalogue. Chapter lists, concepts, questions and lessons are not yet sourced, so nothing beyond the official book link is claimed."
+  },
+  {
+    "id": "hindi",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "title": "Hindi",
+    "order": 6,
+    "coverage": "catalog_only",
+    "note": "Subject confirmed in the official AP textbook catalogue. Chapter lists, concepts, questions and lessons are not yet sourced, so nothing beyond the official book link is claimed."
+  },
+  {
+    "id": "social-studies",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 10,
+    "title": "Social Studies",
+    "order": 7,
+    "coverage": "catalog_only",
+    "note": "Subject confirmed in the official AP textbook catalogue. Chapter lists, concepts, questions and lessons are not yet sourced, so nothing beyond the official book link is claimed."
+  }
+]

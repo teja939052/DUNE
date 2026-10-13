@@ -1,0 +1,383 @@
+[
+  {
+    "id": "c09-con-01-realnumbers",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "chapterId": "c09-ch01-numbersystems",
+    "title": "Real Numbers and Decimal Expansions",
+    "description": "Understanding rational and irrational numbers, decimal expansions",
+    "learningObjectives": [
+      "Differentiate between rational and irrational numbers",
+      "Represent real numbers on the number line",
+      "Understand decimal expansions (terminating and non-terminating)",
+      "Perform operations on real numbers including laws of exponents"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 50,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c09-con-01-realnumbers-exponents",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "chapterId": "c09-ch01-numbersystems",
+    "title": "Laws of Exponents",
+    "description": "Operations on real numbers with exponents",
+    "learningObjectives": [
+      "Apply laws of exponents for real numbers",
+      "Express numbers in standard form using exponents",
+      "Solve problems involving exponents and powers",
+      "Understand negative and zero exponents"
+    ],
+    "prerequisiteConceptIds": ["c09-con-01-realnumbers"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 35,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c09-con-02-polynomials-definition",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "chapterId": "c09-ch02-polynomials",
+    "title": "Polynomials - Definition and Types",
+    "description": "Definition of polynomials, types based on degree and number of terms",
+    "learningObjectives": [
+      "Define polynomial and identify polynomial expressions",
+      "Classify polynomials by degree (linear, quadratic, cubic) and number of terms",
+      "Understand the concept of zero of a polynomial",
+      "Distinguish between polynomial and non-polynomial expressions"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 40,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c09-con-02-polynomials-zeros",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "chapterId": "c09-ch02-polynomials",
+    "title": "Zeros of Polynomials",
+    "description": "Finding zeros/roots of polynomial expressions",
+    "learningObjectives": [
+      "Find the zeros of a polynomial",
+      "Understand the relationship between zeros and coefficients",
+      "Apply the Remainder Theorem",
+      "Apply the Factor Theorem for factorisation"
+    ],
+    "prerequisiteConceptIds": ["c09-con-02-polynomials-definition"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c09-con-03-coordinate-plane",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "chapterId": "c09-ch03-coordinate",
+    "title": "Cartesian Plane and Plotting Points",
+    "description": "Understanding the Cartesian plane and plotting points",
+    "learningObjectives": [
+      "Understand the Cartesian coordinate system (x-y plane)",
+      "Plot points given ordered pairs (x, y)",
+      "Identify the four quadrants and their characteristics",
+      "Locate points on the coordinate plane"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 40,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c09-con-03-distance-formula",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "chapterId": "c09-ch03-coordinate",
+    "title": "Distance Formula and Section Formula",
+    "description": "Calculating distances and dividing line segments",
+    "learningObjectives": [
+      "Calculate distance between two points using the distance formula",
+      "Apply the section formula to find points dividing a segment",
+      "Solve problems involving coordinates and distances",
+      "Use coordinate geometry in real-world contexts"
+    ],
+    "prerequisiteConceptIds": ["c09-con-03-coordinate-plane"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c09-con-04-linear-two-variables",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "chapterId": "c09-ch04-lineq-two-var",
+    "title": "Solving Linear Equations in Two Variables",
+    "description": "Finding solutions and graphing linear equations in two variables",
+    "learningObjectives": [
+      "Find solutions (x, y) for linear equations in two variables",
+      "Plot the graph of a linear equation in two variables",
+      "Understand that a linear equation in two variables has infinitely many solutions",
+      "Apply to real-world problems involving two variables"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 50,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c09-con-04-linear-graphs",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "chapterId": "c09-ch04-lineq-two-var",
+    "title": "Graphs of Linear Equations",
+    "description": "Understanding the graphical representation of linear equations",
+    "learningObjectives": [
+      "Plot the graph of linear equations of the form y = mx + c",
+      "Identify slope (m) and y-intercept (c) from the equation",
+      "Understand the relationship between algebraic and graphical forms",
+      "Apply graphing to solve real-world problems"
+    ],
+    "prerequisiteConceptIds": ["c09-con-04-linear-two-variables"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 40,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c09-con-05-euclid-axioms",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "chapterId": "c09-ch05-euclid",
+    "title": "Euclid's Axioms and Postulates",
+    "description": "Understanding the axiomatic approach to geometry",
+    "learningObjectives": [
+      "Understand Euclid's definitions, axioms, and postulates",
+      " differentiate between axioms and postulates",
+      "Apply Euclid's axioms to geometric reasoning",
+      "Understand how mathematical proofs are constructed"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c09-con-06-lines-angles",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "chapterId": "c09-ch06-lines-angles",
+    "title": "Properties of Lines and Angles",
+    "description": "Exploring properties of intersecting and parallel lines",
+    "learningObjectives": [
+      "Understand properties of angles formed by intersecting lines",
+      "Apply properties of parallel lines cut by a transversal",
+      "Use the angle sum property of triangles",
+      "Solve problems involving unknown angles"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 40,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c09-con-07-triangles-congruence",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "chapterId": "c09-ch07-triangles",
+    "title": "Triangle Congruence Criteria",
+    "description": "SAS, ASA, AAS, SSS, RHS congruence criteria",
+    "learningObjectives": [
+      "Apply SSS congruence criterion",
+      "Apply SAS congruence criterion",
+      "Apply ASA congruence criterion",
+      "Apply AAS congruence criterion",
+      "Apply RHS congruence criterion for right triangles"
+    ],
+    "prerequisiteConceptIds": ["c09-con-06-lines-angles"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 50,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c09-con-08-triangles-properties",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "chapterId": "c09-ch07-triangles",
+    "title": "Triangle Properties and Inequalities",
+    "description": "Properties of triangles and important inequality theorems",
+    "learningObjectives": [
+      "Apply the angle sum property (180°)",
+      "Apply the exterior angle property",
+      "Apply the triangle inequality theorem",
+      "Understand properties of isosceles and equilateral triangles"
+    ],
+    "prerequisiteConceptIds": ["c09-con-07-triangles-congruence"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c09-con-08-quadrilaterals-midpoint",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "chapterId": "c09-ch08-quadrilaterals",
+    "title": "Quadrilateral Properties and Mid-point Theorem",
+    "description": "Properties of quadrilaterals and the mid-point theorem",
+    "learningObjectives": [
+      "Apply properties of parallelograms, rectangles, rhombuses, squares",
+      "Understand and use the mid-point theorem",
+      "Solve problems involving quadrilateral angles and sides",
+      "Relate quadrilateral properties to real-world shapes"
+    ],
+    "prerequisiteConceptIds": ["c09-con-06-lines-angles"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 40,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c09-con-09-circles-chords",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "chapterId": "c09-ch09-circles",
+    "title": "Circle Geometry - Chords and Properties",
+    "description": "Properties of chords, arcs, and angles in circles",
+    "learningObjectives": [
+      "Understand properties of chords of a circle",
+      "Apply theorems related to angles subtended by chords",
+      "Solve problems involving cyclic quadrilaterals",
+      "Use circle properties in geometric proofs"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c09-con-10-herons",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "chapterId": "c09-ch10-herons",
+    "title": "Heron's Formula for Triangle Area",
+    "description": "Calculating area of a triangle given three sides",
+    "learningObjectives": [
+      "Apply Heron's formula to find triangle area",
+      "Calculate semi-perimeter of a triangle",
+      "Apply Heron's formula to find area of quadrilaterals",
+      "Solve real-world problems involving triangle area"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 40,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c09-con-11-surfaceareas-volumes",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "chapterId": "c09-ch11-surfaceareas",
+    "title": "Surface Areas and Volumes of 3D Shapes",
+    "description": "Calculating surface areas and volumes of common 3D shapes",
+    "learningObjectives": [
+      "Calculate surface area of cubes, cuboids, cylinders, cones, spheres",
+      "Calculate volume of cubes, cuboids, cylinders, cones, spheres",
+      "Apply concepts to real-world problems (containers, tanks, etc.)",
+      "Differentiate between surface area and volume"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 55,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c09-con-12-statistics-central-tendency",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "chapterId": "c09-ch12-statistics",
+    "title": "Measures of Central Tendency",
+    "description": "Mean, median, and mode of data sets",
+    "learningObjectives": [
+      "Calculate mean, median, and mode for ungrouped data",
+      "Organise data into frequency distributions",
+      "Construct bar graphs and histograms",
+      "Compare different measures of central tendency"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c09-con-13-probability-basic",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "chapterId": "c09-ch13-probability",
+    "title": "Basic Probability Concepts",
+    "description": "Experimental approach to probability",
+    "learningObjectives": [
+      "Understand the basic concept of probability",
+      "Calculate probability of simple events",
+      "Understand equally likely outcomes",
+      "Solve simple probability problems"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 35,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c09-con-14-advanced-constructions",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "subjectId": "mathematics",
+    "chapterId": "c09-ch15",
+    "title": "Advanced Geometric Constructions",
+    "description": "Detailed constructions using compass and ruler",
+    "learningObjectives": [
+      "Construct triangles given various conditions",
+      "Bisect angles and line segments accurately",
+      "Construct perpendicular bisectors",
+      "Apply construction skills to solve geometric problems"
+    ],
+    "prerequisiteConceptIds": ["c09-con-06-lines-angles"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 50,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "res-ap-ssc-c08-mathematics-1",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 8,
+    "subjectId": "mathematics",
+    "type": "external_link",
+    "title": "Class 8 Mathematics textbook (Semester 1) - Government of Andhra Pradesh",
+    "language": "en",
+    "url": "https://cse.ap.gov.in/downloadBooks/Maths Books/8_Maths_SEM-1_Textbook.pdf/8",
+    "publisher": "Government of Andhra Pradesh, Department of School Education",
+    "licence": "Government textbook; see publisher terms. Link only, not rehosted.",
+    "reviewStatus": "verified",
+    "conceptIds": [
+      "number-sense",
+      "inverse-operations",
+      "distributive-parenthesis",
+      "two-step-equations",
+      "variables-both-sides"
+    ],
+    "version": 1
+  }
+]

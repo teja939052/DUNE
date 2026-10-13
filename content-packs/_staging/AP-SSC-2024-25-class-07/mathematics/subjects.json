@@ -1,0 +1,11 @@
+[
+  {
+    "id": "mathematics",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 7,
+    "title": "Mathematics",
+    "order": 1,
+    "coverage": "assessment_ready",
+    "note": "NCERT Class 7 Mathematics - full curriculum with 8 chapters"
+  }
+]

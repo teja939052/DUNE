@@ -1,0 +1,11 @@
+[
+  {
+    "id": "mathematics",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 8,
+    "title": "Mathematics",
+    "order": 1,
+    "coverage": "assessment_ready",
+    "note": "The Linear Equations in One Variable chapter is fully implemented with a verified question bank, concept graph and reviewed lessons."
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "c07-ch01-largenumbers",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 7,
+    "subjectId": "mathematics",
+    "title": "Large Numbers Around Us",
+    "order": 1,
+    "coverage": "assessment_ready",
+    "summary": "A Lakh Varieties!, Reading and Writing Numbers, Land of Tens, Of Crores and Crores!, Exact and Approximate Values, Patterns in Products"
+  },
+  {
+    "id": "c07-ch02-arithmexpr",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 7,
+    "subjectId": "mathematics",
+    "title": "Arithmetic Expressions",
+    "order": 2,
+    "coverage": "assessment_ready",
+    "summary": "Simple Expressions, Reading and Evaluating Complex Expressions, Brackets in Expressions, Terms in Expressions, Swapping and Grouping, Swapping the Order of Things in Everyday Life, Removing Brackets"
+  },
+  {
+    "id": "c07-ch03-beyondpoint",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 7,
+    "subjectId": "mathematics",
+    "title": "A Peek Beyond the Point",
+    "order": 3,
+    "coverage": "assessment_ready",
+    "summary": "The Need for Smaller Units, A Tenth Part, A Hundredth Part, Decimal Place Value, Notation Writing and Reading of Decimal Numbers, Units of Measurement, Locating and Comparing Decimals, Addition and Subtraction of Decimals, More on the Decimal System"
+  },
+  {
+    "id": "c07-ch04-lines",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 7,
+    "subjectId": "mathematics",
+    "title": "Parallel and Intersecting Lines",
+    "order": 4,
+    "coverage": "assessment_ready",
+    "summary": "Across the Line, Perpendicular Lines, Between Lines, Parallel and Perpendicular Lines in Paper Folding, Transversals, Corresponding Angles, Alternate Angles, Consecutive Angles, Parallel Illusions"
+  },
+  {
+    "id": "c07-ch05-numberplay",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 7,
+    "subjectId": "mathematics",
+    "title": "Number Play",
+    "order": 5,
+    "coverage": "assessment_ready",
+    "summary": "Numbers Tell us Things, Picking Parity, Some Explorations in Grids, 3 × 3 & 4 × 4 Magic Square, Nature's Favourite Sequence: The Virahāṅka Fibonacci Numbers!, Digits in Disguise"
+  },
+  {
+    "id": "c07-ch06-threelines",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 7,
+    "subjectId": "mathematics",
+    "title": "A Tale of Three Intersecting Lines",
+    "order": 6,
+    "coverage": "assessment_ready",
+    "summary": "Triangles, Equilateral Triangles, Constructing a Triangle When Its Sides Are Given, Triangle Inequality, Visualising the Construction of Circles, Construction of Triangles When Some Sides and Angles are Given, Angle Sum Property, Exterior Angles Property, Constructions Related to Altitudes of Triangles, Types of Triangles"
+  },
+  {
+    "id": "c07-ch07-fractions",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 7,
+    "subjectId": "mathematics",
+    "title": "Working with Fractions",
+    "order": 7,
+    "coverage": "assessment_ready",
+    "summary": "Multiplication of Fractions, Connection between the Area of a Rectangle and Fraction Multiplication, Simplifying to Lowest Form, Order of Multiplication, Division of Fractions, Some Problems Involving Fractions"
+  }
+]

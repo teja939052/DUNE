@@ -1,0 +1,282 @@
+[
+  {
+    "id": "c07-con-01-largenumbers-placevalue",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 7,
+    "subjectId": "mathematics",
+    "chapterId": "c07-ch01-largenumbers",
+    "title": "Place Value and Large Numbers",
+    "description": "Reading and writing large numbers, exact and approximate values",
+    "learningObjectives": [
+      "Read and write large numbers up to 8 digits",
+      "Understand place value for large numbers",
+      "Estimate outcomes of number operations",
+      "Differentiate between exact and approximate values"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c07-con-01-largenumbers-patterns",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 7,
+    "subjectId": "mathematics",
+    "chapterId": "c07-ch01-largenumbers",
+    "title": "Patterns in Products",
+    "description": "Patterns in products and products of large numbers",
+    "learningObjectives": [
+      "Identify patterns in multiplication products",
+      "Recognise patterns when multiplying by 10, 100, 1000",
+      "Estimate products of large numbers",
+      "Connect patterns to real-world contexts"
+    ],
+    "prerequisiteConceptIds": ["c07-con-01-largenumbers-placevalue"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 35,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c07-con-02-arithmexpr-simple",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 7,
+    "subjectId": "mathematics",
+    "chapterId": "c07-ch02-arithmexpr",
+    "title": "Simple Arithmetic Expressions",
+    "description": "Reading and evaluating simple arithmetic expressions",
+    "learningObjectives": [
+      "Evaluate arithmetic expressions with whole numbers",
+      "Understand the use of brackets in expressions",
+      "Identify terms in an expression",
+      "Apply the correct order of operations"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 40,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c07-con-02-arithmexpr-complex",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 7,
+    "subjectId": "mathematics",
+    "chapterId": "c07-ch02-arithmexpr",
+    "title": "Complex Arithmetic Expressions",
+    "description": "Reading and evaluating complex arithmetic expressions",
+    "learningObjectives": [
+      "Evaluate expressions with multiple operations and brackets",
+      "Apply the correct order of operations (BODMAS/BIDMAS)",
+      "Swap and re-group terms in expressions",
+      "Translate word problems into arithmetic expressions"
+    ],
+    "prerequisiteConceptIds": ["c07-con-02-arithmexpr-simple"],
+    "recommendedDifficulty": 2,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c07-con-03-decimals-placevalue",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 7,
+    "subjectId": "mathematics",
+    "chapterId": "c07-ch03-beyondpoint",
+    "title": "Decimal Place Value and Operations",
+    "description": "Decimal notation, writing and reading decimal numbers, operations on decimals",
+    "learningObjectives": [
+      "Understand decimal place value (tenths, hundredths, thousandths)",
+      "Write and read decimal numbers correctly",
+      "Locate and compare decimal numbers",
+      "Add and subtract decimal numbers"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 50,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c07-con-03-decimals-problems",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 7,
+    "subjectId": "mathematics",
+    "chapterId": "c07-ch03-beyondpoint",
+    "title": "Decimal Problems in Measurement",
+    "description": "Real-world problems involving decimals and measurement",
+    "learningObjectives": [
+      "Solve problems involving length, mass, and temperature with decimals",
+      "Convert between units using decimal notation",
+      "Apply decimal operations in measurement contexts",
+      "Solve multi-step word problems with decimals"
+    ],
+    "prerequisiteConceptIds": ["c07-con-03-decimals-placevalue"],
+    "recommendedDifficulty": 2,
+    "estimatedMinutes": 40,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c07-con-04-lines-intersecting",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 7,
+    "subjectId": "mathematics",
+    "chapterId": "c07-ch04-lines",
+    "title": "Intersecting Lines and Angles",
+    "description": "Properties of intersecting and parallel lines, transversals",
+    "learningObjectives": [
+      "Identify intersecting and parallel lines",
+      "Understand angle relationships formed by a transversal",
+      "Recognise corresponding, alternate, and interior angles",
+      "Solve problems involving angle measures with parallel lines"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c07-con-04-lines-parallel-constructions",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 7,
+    "subjectId": "mathematics",
+    "chapterId": "c07-ch04-lines",
+    "title": "Parallel Lines Constructions",
+    "description": "Constructing parallel and perpendicular lines, real-life applications",
+    "learningObjectives": [
+      "Construct parallel lines using ruler and set-square",
+      "Construct perpendicular lines",
+      "Apply parallel line properties to real-world problems",
+      "Recognise parallel lines in architecture and design"
+    ],
+    "prerequisiteConceptIds": ["c07-con-04-lines-intersecting"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 40,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c07-con-05-numberplay-fibonacci",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 7,
+    "subjectId": "mathematics",
+    "chapterId": "c07-ch05-numberplay",
+    "title": "Fibonacci Numbers and Patterns",
+    "description": "Nature's favourite sequence and number grid explorations",
+    "learningObjectives": [
+      "Identify the Fibonacci sequence: 1, 1, 2, 3, 5, 8, ...",
+      "Recognise Fibonacci patterns in nature",
+      "Explore number grids and their properties",
+      "Understand the connection between number patterns and geometry"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 40,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c07-con-05-numberplay-magic-square",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 7,
+    "subjectId": "mathematics",
+    "chapterId": "c07-ch05-numberplay",
+    "title": "Magic Squares",
+    "description": "3×3 and 4×4 magic square patterns and properties",
+    "learningObjectives": [
+      "Understand what makes a magic square",
+      "Complete 3×3 and 4×4 magic squares",
+      "Calculate the magic constant for different squares",
+      "Explore the mathematical properties of magic squares"
+    ],
+    "prerequisiteConceptIds": ["c07-con-05-numberplay-fibonacci"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 35,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c07-con-06-triangles-properties",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 7,
+    "subjectId": "mathematics",
+    "chapterId": "c07-ch06-threelines",
+    "title": "Triangle Properties",
+    "description": "Angle sum property, triangle inequality, types of triangles",
+    "learningObjectives": [
+      "Understand the angle sum property of triangles (180°)",
+      "Apply the triangle inequality theorem",
+      "Identify different types of triangles (by sides and angles)",
+      "Construct triangles given various conditions"
+    ],
+    "prerequisiteConceptIds": ["c07-con-04-lines-intersecting"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c07-con-06-triangle-constructions",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 7,
+    "subjectId": "mathematics",
+    "chapterId": "c07-ch06-threelines",
+    "title": "Triangle Constructions",
+    "description": "Constructing triangles given sides, angles, or other conditions",
+    "learningObjectives": [
+      "Construct a triangle given three sides (SSS)",
+      "Construct a triangle given two sides and the included angle (SAS)",
+      "Construct a triangle given two angles and the included side (ASA)",
+      "Apply triangle construction techniques to solve problems"
+    ],
+    "prerequisiteConceptIds": ["c07-con-06-triangles-properties"],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 50,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c07-con-07-fractions-multiplication",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 7,
+    "subjectId": "mathematics",
+    "chapterId": "c07-ch07-fractions",
+    "title": "Fraction Multiplication",
+    "description": "Multiplication of fractions and connection to rectangle area",
+    "learningObjectives": [
+      "Multiply fractions properly",
+      "Understand the connection between fraction multiplication and rectangle area",
+      "Simplify products to lowest form",
+      "Apply fraction multiplication in real-world contexts"
+    ],
+    "prerequisiteConceptIds": [],
+    "recommendedDifficulty": 1,
+    "estimatedMinutes": 45,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  },
+  {
+    "id": "c07-con-07-fractions-division",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 7,
+    "subjectId": "mathematics",
+    "chapterId": "c07-ch07-fractions",
+    "title": "Fraction Division",
+    "description": "Division of fractions and some problems involving fractions",
+    "learningObjectives": [
+      "Divide fractions properly",
+      "Understand 'invert and multiply' rule for fraction division",
+      "Simplify fraction division results",
+      "Solve real-world problems involving fraction division"
+    ],
+    "prerequisiteConceptIds": ["c07-con-07-fractions-multiplication"],
+    "recommendedDifficulty": 2,
+    "estimatedMinutes": 40,
+    "sourceIds": ["src-ncert-2024"],
+    "version": 1
+  }
+]

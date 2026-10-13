@@ -1,0 +1,4 @@
+[
+  { "id": "res-ncert-2025-c10-maths-text", "curriculumId": "IN.NCERT.2025-26", "grade": 10, "subjectId": "mathematics", "type": "external_link", "title": "NCERT Mathematics textbook catalogue", "language": "en", "url": "https://ncert.nic.in/textbook.php?femh1=bt-12", "publisher": "National Council of Educational Research and Training", "licence": "NCERT textbook; linked for reference and not rehosted.", "reviewStatus": "verified", "conceptIds": [], "version": 1 },
+  { "id": "res-ncert-2025-c10-cbse-syllabus", "curriculumId": "IN.NCERT.2025-26", "grade": 10, "subjectId": "mathematics", "type": "external_link", "title": "CBSE Class X Mathematics syllabus 2025-26", "language": "en", "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/Sec/Maths_Sec_2025-26.pdf", "publisher": "Central Board of Secondary Education", "licence": "Official syllabus link.", "reviewStatus": "verified", "conceptIds": [], "version": 1 }
+]

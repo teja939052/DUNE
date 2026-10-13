@@ -1,0 +1,11 @@
+[
+  {
+    "id": "mathematics",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 9,
+    "title": "Mathematics",
+    "order": 1,
+    "coverage": "assessment_ready",
+    "note": "NCERT Class 9 Mathematics - full curriculum with 15 chapters"
+  }
+]

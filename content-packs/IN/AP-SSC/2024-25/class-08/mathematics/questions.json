@@ -1,0 +1,518 @@
+[
+  {
+    "id": "le-01",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 8,
+    "subjectId": "mathematics",
+    "chapterId": "ap-ssc-2024-25-c08-mat-linear-equations",
+    "conceptId": "number-sense",
+    "difficulty": 1,
+    "type": "multiple-choice",
+    "prompt": "Solve: x + 5 = 12",
+    "options": [
+      {
+        "id": "opt-7",
+        "text": "x = 7"
+      },
+      {
+        "id": "opt-8",
+        "text": "x = 8"
+      },
+      {
+        "id": "opt-12",
+        "text": "x = 12"
+      },
+      {
+        "id": "opt-17",
+        "text": "x = 17"
+      }
+    ],
+    "correctOptionId": "opt-7",
+    "misconceptionByOption": {
+      "opt-8": "arithmetic-error",
+      "opt-12": "ignored-left-side",
+      "opt-17": "wrong-inverse-operation"
+    },
+    "explanation": "Subtract 5 from both sides: x = 12 − 5 = 7.",
+    "hint": "Try the opposite operation on both sides.",
+    "isTransfer": false,
+    "sourceIds": [
+      "src-ap-ssc-c08-mathematics-2024-25"
+    ],
+    "verificationStatus": "verified",
+    "version": 1
+  },
+  {
+    "id": "le-02",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 8,
+    "subjectId": "mathematics",
+    "chapterId": "ap-ssc-2024-25-c08-mat-linear-equations",
+    "conceptId": "number-sense",
+    "difficulty": 1,
+    "type": "multiple-choice",
+    "prompt": "Solve: x - 3 = 8",
+    "options": [
+      {
+        "id": "opt-5",
+        "text": "x = 5"
+      },
+      {
+        "id": "opt-8",
+        "text": "x = 8"
+      },
+      {
+        "id": "opt-11",
+        "text": "x = 11"
+      },
+      {
+        "id": "opt-15",
+        "text": "x = 15"
+      }
+    ],
+    "correctOptionId": "opt-11",
+    "misconceptionByOption": {
+      "opt-5": "wrong-inverse-operation",
+      "opt-8": "ignored-left-side",
+      "opt-15": "arithmetic-error"
+    },
+    "explanation": "Add 3 to both sides: x = 8 + 3 = 11.",
+    "hint": "Try the opposite operation on both sides.",
+    "isTransfer": false,
+    "sourceIds": [
+      "src-ap-ssc-c08-mathematics-2024-25"
+    ],
+    "verificationStatus": "verified",
+    "version": 1
+  },
+  {
+    "id": "le-03",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 8,
+    "subjectId": "mathematics",
+    "chapterId": "ap-ssc-2024-25-c08-mat-linear-equations",
+    "conceptId": "inverse-operations",
+    "difficulty": 1,
+    "type": "multiple-choice",
+    "prompt": "Solve: 2x = 14",
+    "options": [
+      {
+        "id": "opt-4",
+        "text": "x = 4"
+      },
+      {
+        "id": "opt-6",
+        "text": "x = 6"
+      },
+      {
+        "id": "opt-7",
+        "text": "x = 7"
+      },
+      {
+        "id": "opt-14",
+        "text": "x = 14"
+      }
+    ],
+    "correctOptionId": "opt-7",
+    "misconceptionByOption": {
+      "opt-4": "wrong-inverse-operation",
+      "opt-6": "arithmetic-error",
+      "opt-14": "forgot-divide-by-coefficient"
+    },
+    "explanation": "Divide both sides by 2: x = 14 ÷ 2 = 7.",
+    "hint": "Try the opposite operation on both sides.",
+    "isTransfer": false,
+    "sourceIds": [
+      "src-ap-ssc-c08-mathematics-2024-25"
+    ],
+    "verificationStatus": "verified",
+    "version": 1
+  },
+  {
+    "id": "le-04",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 8,
+    "subjectId": "mathematics",
+    "chapterId": "ap-ssc-2024-25-c08-mat-linear-equations",
+    "conceptId": "inverse-operations",
+    "difficulty": 1,
+    "type": "multiple-choice",
+    "prompt": "Solve: x / 4 = 3",
+    "options": [
+      {
+        "id": "opt-6",
+        "text": "x = 6"
+      },
+      {
+        "id": "opt-8",
+        "text": "x = 8"
+      },
+      {
+        "id": "opt-12",
+        "text": "x = 12"
+      },
+      {
+        "id": "opt-16",
+        "text": "x = 16"
+      }
+    ],
+    "correctOptionId": "opt-12",
+    "misconceptionByOption": {
+      "opt-6": "divided-instead-of-multiplied",
+      "opt-8": "wrong-inverse-operation",
+      "opt-16": "arithmetic-error"
+    },
+    "explanation": "Multiply both sides by 4: x = 3 × 4 = 12.",
+    "hint": "Try the opposite operation on both sides.",
+    "isTransfer": false,
+    "sourceIds": [
+      "src-ap-ssc-c08-mathematics-2024-25"
+    ],
+    "verificationStatus": "verified",
+    "version": 1
+  },
+  {
+    "id": "le-05",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 8,
+    "subjectId": "mathematics",
+    "chapterId": "ap-ssc-2024-25-c08-mat-linear-equations",
+    "conceptId": "two-step-equations",
+    "difficulty": 2,
+    "type": "multiple-choice",
+    "prompt": "Solve: 2x + 3 = 11",
+    "options": [
+      {
+        "id": "opt-2",
+        "text": "x = 2"
+      },
+      {
+        "id": "opt-4",
+        "text": "x = 4"
+      },
+      {
+        "id": "opt-5",
+        "text": "x = 5"
+      },
+      {
+        "id": "opt-8",
+        "text": "x = 8"
+      }
+    ],
+    "correctOptionId": "opt-4",
+    "misconceptionByOption": {
+      "opt-2": "forgot-add-constant",
+      "opt-5": "arithmetic-error",
+      "opt-8": "forgot-divide-by-coefficient"
+    },
+    "explanation": "Subtract 3: 2x = 8. Divide by 2: x = 4.",
+    "hint": "Try the opposite operation on both sides.",
+    "isTransfer": false,
+    "sourceIds": [
+      "src-ap-ssc-c08-mathematics-2024-25"
+    ],
+    "verificationStatus": "verified",
+    "version": 1
+  },
+  {
+    "id": "le-06",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 8,
+    "subjectId": "mathematics",
+    "chapterId": "ap-ssc-2024-25-c08-mat-linear-equations",
+    "conceptId": "two-step-equations",
+    "difficulty": 2,
+    "type": "multiple-choice",
+    "prompt": "Solve: 3x - 5 = 10",
+    "options": [
+      {
+        "id": "opt-3",
+        "text": "x = 3"
+      },
+      {
+        "id": "opt-4",
+        "text": "x = 4"
+      },
+      {
+        "id": "opt-5",
+        "text": "x = 5"
+      },
+      {
+        "id": "opt-8",
+        "text": "x = 8"
+      }
+    ],
+    "correctOptionId": "opt-5",
+    "misconceptionByOption": {
+      "opt-3": "ignored-constant",
+      "opt-4": "arithmetic-error",
+      "opt-8": "forgot-divide-by-coefficient"
+    },
+    "explanation": "Add 5: 3x = 15. Divide by 3: x = 5.",
+    "hint": "Try the opposite operation on both sides.",
+    "isTransfer": false,
+    "sourceIds": [
+      "src-ap-ssc-c08-mathematics-2024-25"
+    ],
+    "verificationStatus": "verified",
+    "version": 1
+  },
+  {
+    "id": "le-07",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 8,
+    "subjectId": "mathematics",
+    "chapterId": "ap-ssc-2024-25-c08-mat-linear-equations",
+    "conceptId": "two-step-equations",
+    "difficulty": 2,
+    "type": "multiple-choice",
+    "prompt": "Solve: 4x + 2 = 18",
+    "options": [
+      {
+        "id": "opt-2",
+        "text": "x = 2"
+      },
+      {
+        "id": "opt-3",
+        "text": "x = 3"
+      },
+      {
+        "id": "opt-4",
+        "text": "x = 4"
+      },
+      {
+        "id": "opt-6",
+        "text": "x = 6"
+      }
+    ],
+    "correctOptionId": "opt-4",
+    "misconceptionByOption": {
+      "opt-2": "wrong-operation-order",
+      "opt-3": "arithmetic-error",
+      "opt-6": "forgot-divide-by-coefficient"
+    },
+    "explanation": "Subtract 2: 4x = 16. Divide by 4: x = 4.",
+    "hint": "Try the opposite operation on both sides.",
+    "isTransfer": false,
+    "sourceIds": [
+      "src-ap-ssc-c08-mathematics-2024-25"
+    ],
+    "verificationStatus": "verified",
+    "version": 1
+  },
+  {
+    "id": "le-08",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 8,
+    "subjectId": "mathematics",
+    "chapterId": "ap-ssc-2024-25-c08-mat-linear-equations",
+    "conceptId": "distributive-parenthesis",
+    "difficulty": 3,
+    "type": "multiple-choice",
+    "prompt": "Solve: 3(x + 2) = 21",
+    "options": [
+      {
+        "id": "opt-3",
+        "text": "x = 3"
+      },
+      {
+        "id": "opt-4",
+        "text": "x = 4"
+      },
+      {
+        "id": "opt-5",
+        "text": "x = 5"
+      },
+      {
+        "id": "opt-7",
+        "text": "x = 7"
+      }
+    ],
+    "correctOptionId": "opt-5",
+    "misconceptionByOption": {
+      "opt-3": "ignored-parentheses",
+      "opt-4": "arithmetic-error",
+      "opt-7": "distributed-incorrectly"
+    },
+    "explanation": "Distribute: 3x + 6 = 21. Then 3x = 15, so x = 5.",
+    "hint": "Try the opposite operation on both sides.",
+    "isTransfer": false,
+    "sourceIds": [
+      "src-ap-ssc-c08-mathematics-2024-25"
+    ],
+    "verificationStatus": "verified",
+    "version": 1
+  },
+  {
+    "id": "le-09",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 8,
+    "subjectId": "mathematics",
+    "chapterId": "ap-ssc-2024-25-c08-mat-linear-equations",
+    "conceptId": "variables-both-sides",
+    "difficulty": 4,
+    "type": "multiple-choice",
+    "prompt": "Solve: 5x - 7 = 2x + 8",
+    "options": [
+      {
+        "id": "opt-3",
+        "text": "x = 3"
+      },
+      {
+        "id": "opt-5",
+        "text": "x = 5"
+      },
+      {
+        "id": "opt-7",
+        "text": "x = 7"
+      },
+      {
+        "id": "opt-9",
+        "text": "x = 9"
+      }
+    ],
+    "correctOptionId": "opt-5",
+    "misconceptionByOption": {
+      "opt-3": "ignored-right-side",
+      "opt-7": "combined-like-terms-incorrectly",
+      "opt-9": "arithmetic-error"
+    },
+    "explanation": "Move variables to one side: 3x - 7 = 8, so 3x = 15, x = 5.",
+    "hint": "Try the opposite operation on both sides.",
+    "isTransfer": false,
+    "sourceIds": [
+      "src-ap-ssc-c08-mathematics-2024-25"
+    ],
+    "verificationStatus": "verified",
+    "version": 1
+  },
+  {
+    "id": "le-10",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 8,
+    "subjectId": "mathematics",
+    "chapterId": "ap-ssc-2024-25-c08-mat-linear-equations",
+    "conceptId": "distributive-parenthesis",
+    "difficulty": 3,
+    "type": "multiple-choice",
+    "prompt": "Solve: 2(2x - 1) = 10",
+    "options": [
+      {
+        "id": "opt-1",
+        "text": "x = 1"
+      },
+      {
+        "id": "opt-2",
+        "text": "x = 2"
+      },
+      {
+        "id": "opt-3",
+        "text": "x = 3"
+      },
+      {
+        "id": "opt-5",
+        "text": "x = 5"
+      }
+    ],
+    "correctOptionId": "opt-3",
+    "misconceptionByOption": {
+      "opt-1": "ignored-parentheses",
+      "opt-2": "partially-distributed",
+      "opt-5": "combined-constants-incorrectly"
+    },
+    "explanation": "Distribute: 4x - 2 = 10. Then 4x = 12, so x = 3.",
+    "hint": "Try the opposite operation on both sides.",
+    "isTransfer": false,
+    "sourceIds": [
+      "src-ap-ssc-c08-mathematics-2024-25"
+    ],
+    "verificationStatus": "verified",
+    "version": 1
+  },
+  {
+    "id": "le-11",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 8,
+    "subjectId": "mathematics",
+    "chapterId": "ap-ssc-2024-25-c08-mat-linear-equations",
+    "conceptId": "two-step-equations",
+    "difficulty": 3,
+    "type": "multiple-choice",
+    "prompt": "Word problem: 5 times a number increased by 3 equals 23. Find the number.",
+    "options": [
+      {
+        "id": "opt-2",
+        "text": "x = 2"
+      },
+      {
+        "id": "opt-4",
+        "text": "x = 4"
+      },
+      {
+        "id": "opt-5",
+        "text": "x = 5"
+      },
+      {
+        "id": "opt-6",
+        "text": "x = 6"
+      }
+    ],
+    "correctOptionId": "opt-4",
+    "misconceptionByOption": {
+      "opt-2": "ignored-constant",
+      "opt-5": "wrong-operation-order",
+      "opt-6": "misread-problem"
+    },
+    "explanation": "Translate to 5x + 3 = 23, then 5x = 20, x = 4.",
+    "hint": "Try the opposite operation on both sides.",
+    "isTransfer": true,
+    "sourceIds": [
+      "src-ap-ssc-c08-mathematics-2024-25"
+    ],
+    "verificationStatus": "verified",
+    "version": 1
+  },
+  {
+    "id": "le-12",
+    "curriculumId": "IN.AP-SSC.2024-25",
+    "grade": 8,
+    "subjectId": "mathematics",
+    "chapterId": "ap-ssc-2024-25-c08-mat-linear-equations",
+    "conceptId": "variables-both-sides",
+    "difficulty": 4,
+    "type": "multiple-choice",
+    "prompt": "Solve: 7x + 3 = 4x + 15",
+    "options": [
+      {
+        "id": "opt-3",
+        "text": "x = 3"
+      },
+      {
+        "id": "opt-4",
+        "text": "x = 4"
+      },
+      {
+        "id": "opt-5",
+        "text": "x = 5"
+      },
+      {
+        "id": "opt-6",
+        "text": "x = 6"
+      }
+    ],
+    "correctOptionId": "opt-4",
+    "misconceptionByOption": {
+      "opt-3": "arithmetic-error",
+      "opt-5": "combined-like-terms-incorrectly",
+      "opt-6": "ignored-right-side"
+    },
+    "explanation": "3x + 3 = 15, so 3x = 12, x = 4.",
+    "hint": "Try the opposite operation on both sides.",
+    "isTransfer": true,
+    "sourceIds": [
+      "src-ap-ssc-c08-mathematics-2024-25"
+    ],
+    "verificationStatus": "verified",
+    "version": 1
+  }
+]

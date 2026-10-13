@@ -1,0 +1,85 @@
+{
+  "curriculum": {
+    "id": "IN.NCERT.2025-26",
+    "region": "IN",
+    "board": "NCERT National Curriculum (CBSE secondary syllabus for Grades 9-10)",
+    "academicYear": "2025-26",
+    "defaultLanguage": "en",
+    "supportedGrades": [5, 6, 7, 8, 9, 10],
+    "languages": ["en"],
+    "sourceIds": ["src-ncert-grade7-maths-2025", "src-ncert-grade8-maths-2025", "src-cbse-maths-ix-2025", "src-cbse-maths-x-2025", "src-ncert-grade5-maths-outcomes"],
+    "contentVersion": 1,
+    "status": "active"
+  },
+  "sources": [
+    {
+      "id": "src-ncert-grade7-maths-2025",
+      "title": "Ganita Prakash: Textbook of Mathematics, Grade 7, Part I",
+      "issuingOrganisation": "National Council of Educational Research and Training",
+      "url": "https://ncert.nic.in/textbook/pdf/gegp1ps.pdf",
+      "edition": "First edition 2025; reprint 2026-27",
+      "academicYear": "2025-26",
+      "language": "en",
+      "reviewStatus": "verified",
+      "notes": "Official NCERT prelims give chapter titles and chapter descriptions for Part I; this pack records only independently authored summaries, not textbook text."
+    },
+    {
+      "id": "src-ncert-grade8-maths-2025",
+      "title": "Ganita Prakash: Textbook of Mathematics, Grade 8, Part I",
+      "issuingOrganisation": "National Council of Educational Research and Training",
+      "url": "https://ncert.nic.in/textbook/pdf/hegp1ps.pdf",
+      "edition": "First edition 2025; reprint 2026-27",
+      "academicYear": "2025-26",
+      "language": "en",
+      "reviewStatus": "verified",
+      "notes": "Official NCERT prelims give chapter titles and chapter descriptions for Part I; this pack records only independently authored summaries, not textbook text."
+    },
+    {
+      "id": "src-cbse-maths-ix-2025",
+      "title": "Mathematics Curriculum, Class IX, 2025-26",
+      "issuingOrganisation": "Central Board of Secondary Education",
+      "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/Sec/Maths_Sec_2025-26.pdf",
+      "edition": "2025-26",
+      "academicYear": "2025-26",
+      "language": "en",
+      "reviewStatus": "verified",
+      "notes": "CBSE official annual syllabus. Class IX entries are syllabus units and topics, not asserted NCERT chapter titles."
+    },
+    {
+      "id": "src-cbse-maths-x-2025",
+      "title": "Mathematics Curriculum, Class X, 2025-26",
+      "issuingOrganisation": "Central Board of Secondary Education",
+      "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/Sec/Maths_Sec_2025-26.pdf",
+      "edition": "2025-26",
+      "academicYear": "2025-26",
+      "language": "en",
+      "reviewStatus": "verified",
+      "notes": "CBSE official annual syllabus. Class X entries are syllabus units and topics, not asserted textbook chapter order."
+    },
+    {
+      "id": "src-ncert-grade5-maths-outcomes",
+      "title": "Learning Outcomes at the Elementary Stage: Class V Mathematics",
+      "issuingOrganisation": "National Council of Educational Research and Training",
+      "url": "https://ncert.nic.in/pdf/publication/otherpublications/tilops101.pdf",
+      "language": "en",
+      "reviewStatus": "verified",
+      "notes": "Official learning outcomes document, not a current Grade 5 textbook contents list. Grade 5 is represented by broad learning domains only."
+    }
+  ],
+  "packs": [
+    { "grade": 5, "subjectId": "mathematics", "path": "grade-05" },
+    { "grade": 6, "subjectId": "mathematics", "path": "grade-06" },
+    { "grade": 7, "subjectId": "mathematics", "path": "grade-07" },
+    { "grade": 8, "subjectId": "mathematics", "path": "grade-08" },
+    { "grade": 9, "subjectId": "mathematics", "path": "grade-09" },
+    { "grade": 10, "subjectId": "mathematics", "path": "grade-10" }
+  ],
+  "contentVersion": 1,
+  "provenanceNotes": [
+    "This is a separate NCERT/CBSE Mathematics catalog. It does not change or imply NCERT coverage for the Andhra Pradesh SSC curriculum.",
+    "NCERT Grades 6-8 textbooks have changed under the NCF-SE rollout. Grades 7-8 below list only verified Part I chapter titles; Part II and unverified editions remain explicitly unavailable.",
+    "Grade 5 learning domains are based on NCERT learning outcomes, not represented as chapter titles.",
+    "Grades 9-10 list CBSE syllabus topics as catalog entries, not textbook chapter lists. Each entry is catalog_only until original learning content, assessment items, and teaching notes are authored and reviewed.",
+    "NCERT copyrights its textbooks and prohibits redistribution or use of textbook copies in digital content packages. This pack contains short original metadata only and links to publisher sources."
+  ]
+}
